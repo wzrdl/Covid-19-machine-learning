@@ -37,4 +37,10 @@ We employed three machine learning algorithms for this classification task:
 - **Scikit-learn**: Used to build and evaluate machine learning models
 - **Numpy**: For data manipulation and mathematical operations
 - **Pandas**: For handling datasets (optional)
+
+### Results
+
+We achieved a 99% accuracy in predicting whether a patient is COVID-19 positive or negative. The 
+Random Forest model performed the best among the three, with the SVM model following closely behind. All models were evaluated using
+ cross-validation and metrics such as accuracy, precision, recall, and F1-score.
   
