@@ -1,6 +1,6 @@
 # COVID-19 Infection Prediction using Physical Signs
 
-This project applies machine learning algorithms to predict COVID-19 infection based on physical signs. We implemented three widely-used classification models—**Decision Tree**, **Random Forest**, and **Support Vector Machine (SVM)**—using a dataset of 10,000 instances sourced from Kaggle. These models were trained and tested using the **Scikit-learn** library to achieve an impressive prediction accuracy of 99%.
+This project applies machine learning algorithms to predict COVID-19 infection based on physical signs. We implemented three widely-used classification models—**Decision Tree**, **Random Forest**, and **Support Vector Machine (SVM)**—using a dataset of 10,000 instances sourced from Kaggle. These models were trained and tested using the **Scikit-learn** library to achieve an impressive prediction accuracy of 99%. The paper is [paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12287/122872C/COVID-19-infection-prediction-using-physical-signs/10.1117/12.2640976.short#_=_)
 
 ## Table of Contents
 - [Introduction](#introduction)
